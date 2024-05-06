@@ -1,0 +1,50 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\bin\Debug\netcoreapp3.1\">
+        <Link>bin\Debug\netcoreapp3.1</Link>
+      </Folder>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\013_Document.csproj.nuget.dgspec.json">
+        <Link>obj\013_Document.csproj.nuget.dgspec.json</Link>
+      </Content>
+      <Content Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\013_Document.csproj.nuget.g.props">
+        <Link>obj\013_Document.csproj.nuget.g.props</Link>
+      </Content>
+      <Content Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\013_Document.csproj.nuget.g.targets">
+        <Link>obj\013_Document.csproj.nuget.g.targets</Link>
+      </Content>
+      <Content Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\Debug\netcoreapp3.1\013_Document.AssemblyInfoInputs.cache">
+        <Link>obj\Debug\netcoreapp3.1\013_Document.AssemblyInfoInputs.cache</Link>
+      </Content>
+      <Content Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\Debug\netcoreapp3.1\013_Document.assets.cache">
+        <Link>obj\Debug\netcoreapp3.1\013_Document.assets.cache</Link>
+      </Content>
+      <Content Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\project.assets.json">
+        <Link>obj\project.assets.json</Link>
+      </Content>
+      <Content Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\project.nuget.cache">
+        <Link>obj\project.nuget.cache</Link>
+      </Content>
+      <Content Include="013_Document.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\obj\Debug\netcoreapp3.1\013_Document.AssemblyInfo.cs">
+        <Link>obj\Debug\netcoreapp3.1\013_Document.AssemblyInfo.cs</Link>
+      </Compile>
+      <Compile Include="..\..\..\..\..\Downloads\001_Classes_2023\001_Classes\001_Classes\013_Document\Program.cs">
+        <Link>Program.cs</Link>
+      </Compile>
+    </ItemGroup>
+
+</Project>
